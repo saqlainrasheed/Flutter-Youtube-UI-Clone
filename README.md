@@ -1,6 +1,6 @@
 # youtube_clone
 
-A new Flutter project.
+Its one of the first Flutter UI clone I have created, its consists of only screens Home and Trending page.
 
 ## Getting Started
 
